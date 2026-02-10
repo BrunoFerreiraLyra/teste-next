@@ -11,7 +11,7 @@ export default function Home() {
     }}>
       
       {/* Aqui é a sua frase */}
-      <h1>Boa noite, tio</h1>
+      <h1>Boa noite</h1>
 
     </div>
   );
